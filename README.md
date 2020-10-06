@@ -6,5 +6,5 @@ I am currently learning the basics of Data Science and Machine Learning and resu
 ### Using:
 <ul>
   <li>Jupyter</li>
-  <li> [Anaconda](https://www.anaconda.com/) </li>
+  <li>Anaconda</li>
 </ul>
